@@ -1,4 +1,4 @@
-This is a project that reproduces a bug with the history API in Chrome with Preact.
+This is a project that reproduces a bug with the history API in Chrome with React.
 
 Start the project with:
 
